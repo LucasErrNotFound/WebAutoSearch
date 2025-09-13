@@ -1,4 +1,4 @@
-# WebAutoSearch
+# WebAutoSearch ⭐
 WebAutoSearch is all about automatic search to a browser of your choice in just click of a button
 
 WebAutoSearch is a tool for everyone who finds it difficult to search for something, 
